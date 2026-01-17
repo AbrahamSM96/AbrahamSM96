@@ -1,20 +1,18 @@
-# 🏎🎮🧑🏻‍💻 I'm Abraham Serrano 🎮🧑🏻‍💻🏎
+# 🏎 🎮 🧑🏻‍💻 Hi, I'm Abraham Serrano! 🏎 🎮 🧑🏻‍💻 
 
-<div align="center">
-  <h2> I'm a Front-end developer with React </h2>
 
-<img src="https://cdn-icons.flaticon.com/png/512/2745/premium/2745976.png?token=exp=1652126193~hmac=02f4711fbe894bc7cbde3fc1a5869616" height=50; width=50;>
-</div>
-  
-The wonderful world of programming is spectacular and at the same time is a frustrating, but it is the most things that I like to do apart from play video games 🎮.
+## 🚀 About Me
+I’m a Frontend Developer and I hold a degree in Computer Science with 5+ years of experience building high-performance web applications using React and Next.js, primarily for large-scale media and enterprise platforms. I’ve worked on major products like TUDN and Hyundai’s car configurators, focusing on performance optimization, SEO, and server-side rendering (SSR) to deliver fast, scalable user experiences.
 
-  <div align=center>
-      <a href="https://www.linkedin.com/in/abraham-serranom/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /</a>
-        <img src="https://komarev.com/ghpvc/?username=AbrahamSM96&color=blueviolet&style=flat-square">
-    </div>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.abrahamsm.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-serranom/)
+<img src="https://komarev.com/ghpvc/?username=AbrahamSM96&color=blueviolet&style=flat-square">
 
-### Languages and Tools  :rocket:
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/javascript/javascript-plain.svg" alt="javascript" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/typescript/typescript-plain.svg" alt="typescript" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/react/react-original.svg" alt="react" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/redux/redux-original.svg" alt="redux" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/materialui/materialui-plain.svg" alt="materialui" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nodejs/nodejs-plain.svg" alt="nodejs" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/postgresql/postgresql-plain.svg" alt="postgresql" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width=60> |
+
+
+## 🛠 Skills
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/javascript/javascript-plain.svg" alt="javascript" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/typescript/typescript-plain.svg" alt="typescript" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/react/react-original.svg" alt="react" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/redux/redux-original.svg" alt="redux" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/materialui/materialui-plain.svg" alt="materialui" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=60 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/nodejs/nodejs-plain.svg" alt="nodejs" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/postgresql/postgresql-plain.svg" alt="postgresql" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width=60> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg"  width=60 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=60 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width=60 /> | 
 
 ### &nbsp;GitHub Analytics
 
